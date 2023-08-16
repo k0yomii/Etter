@@ -13,13 +13,11 @@
 * https://github.com/Mashpoe/c-vector
 * https://github.com/foonathan/array
 * https://github.com/janelia-arduino/Array
-* 
 
 # Array View
 
 * https://github.com/rhysd/array_view
 * https://github.com/wardw/array_view
-* 
 
 # Byte Array
 
